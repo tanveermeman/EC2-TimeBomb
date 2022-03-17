@@ -1,6 +1,5 @@
 # EC2-TimeBomb
 Time ticking BOMB to terminate temporary EC2 instances 
-.
 Problem Statement: Terminate an instance if it exceeds TTL. ec2-timebomb runs as a periodic job on AWS Lambda
 
 Algorithm
@@ -27,4 +26,5 @@ Deploy Lambda using
 AWS console
 AWS cli
 Terraform
+
 
